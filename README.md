@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 some text
 
-> some quote
-> dsafdsa fdsa fdsa
-> das fdsa fdsa fdsa fdas
-> d afd afdas fda fda fdas fdas fda
+> some quote 
+> dsafdsa fdsa fdsa 
+> das fdsa fdsa fdsa fdas 
+> d afd afdas fda fda fdas fdas fda 
 
 * list 1
 * list 2
